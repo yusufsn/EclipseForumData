@@ -19,7 +19,7 @@ This is a research artifact for the paper: **Discussion in Eclipse Community For
 - [Yusuf Sulistyo Nugroho](https://yusufsn.github.io/)
 - Syful Islam
 - Keitaro Nakasai
-- Ifraz Rehman
+- [Ifraz Rehman](https://ifrazrehman.github.io/)
 - [Hideaki Hata](https://hideakihata.github.io/)
 - [Raula Gaikovina Kula](https://raux.github.io/)
 - [Meiyappan Nagappan](https://cs.uwaterloo.ca/~m2nagapp/)
