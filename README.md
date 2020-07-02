@@ -7,6 +7,11 @@ This is a research artifact for the paper: **Discussion in Eclipse Community For
 ## Contents
 * `LICENSE.md` - [CC0 1.0 Universal.](https://creativecommons.org/publicdomain/zero/1.0/)
 * `README.md` - this file.
+* dataset: directory for the dataset
+  * `289061_threads.csv.zip` - 289,061 collected main threads of all users without post from webmaster (.zip format)
+  * `216864_links.csv.zip` - 216,864 extracted links from collected threads (.zip format)
+  * `2170_contributors.csv` - 2,170 list of contributions (.csv format)
+* Results of manual analysis:
   * [Manual annotation of discussion type](https://docs.google.com/spreadsheets/d/e/2PACX-1vQoRpcbrV66OEB4vaCG9Njq65zW7XpLRITYG3BlUOoa_DmeOKcdQIgYJ8y2aSlmL3y9bCUhjpP3rYmT/pubhtml)
   * [Manual annotation of sentiment analysis](https://docs.google.com/spreadsheets/d/e/2PACX-1vQfyvsP1Zq3b9p_BYwkkgYXuEePJB6sIroC47jOUMcR5P8t7DCJFNpOJD565SPgqi--L3AAIQWs2kC5/pubhtml)
   
