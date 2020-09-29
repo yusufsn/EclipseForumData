@@ -1,8 +1,8 @@
-# Research Artifact: Discussion in Eclipse Community Forums: Participation, Content, and Sentiment
+# Research Artifact: Sustaining a Healthy Ecosystem: Participation, Discussion, and Interaction in Eclipse Forums
 
 https://github.com/yusufsn/EclipseForumData
 
-This is a research artifact for the paper: **Discussion in Eclipse Community Forums: Participation, Content, and Sentiment**. This artifact is a repository consisting of collected dataset including (i) 289,061 threads, (ii) 216,864 extracted links from threads, (iii) 2,170 contributors, and the results of our qualitative analysis, (i) 1,149 manually annotated type of discussion and (ii) 1,149 manually annotated sentiment analysis. The purposes of this artifact are to enable researchers to replicate our mixed-methods quantitative results of the paper, and to reuse the dataset for further software engineering research.
+This is a research artifact for the paper: **Sustaining a Healthy Ecosystem: Participation, Discussion, and Interaction in Eclipse Forums**. This artifact is a repository consisting of collected dataset including (i) 289,061 threads, (ii) 216,864 extracted links from threads, (iii) 2,170 contributors, and the results of our qualitative analysis, (i) 1,149 manually annotated type of discussion and (ii) 1,149 manually annotated sentiment analysis. The purposes of this artifact are to enable researchers to replicate our mixed-methods quantitative results of the paper, and to reuse the dataset for further software engineering research.
 
 ## Contents
 * `LICENSE.md` - [CC0 1.0 Universal.](https://creativecommons.org/publicdomain/zero/1.0/)
