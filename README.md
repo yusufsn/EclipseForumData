@@ -1,4 +1,4 @@
-# Research Artifact: Sustaining a Healthy Ecosystem: Participation, Discussion, and Interaction in Eclipse Forums
+# Research Artifact: How are Project-Specific Forums Utilized? A Study of Participation, Content, and Sentiment in the Eclipse Ecosystem
 
 https://github.com/yusufsn/EclipseForumData
 
