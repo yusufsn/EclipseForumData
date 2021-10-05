@@ -16,6 +16,11 @@ This is a research artifact for the paper: **How are Project-Specific Forums Uti
 * Results of manual analysis:
   * [Manual annotation of discussion type](https://docs.google.com/spreadsheets/d/e/2PACX-1vQoRpcbrV66OEB4vaCG9Njq65zW7XpLRITYG3BlUOoa_DmeOKcdQIgYJ8y2aSlmL3y9bCUhjpP3rYmT/pubhtml)
   * [Manual annotation of sentiment analysis](https://docs.google.com/spreadsheets/d/e/2PACX-1vQfyvsP1Zq3b9p_BYwkkgYXuEePJB6sIroC47jOUMcR5P8t7DCJFNpOJD565SPgqi--L3AAIQWs2kC5/pubhtml)
+
+## Related Paper
+
+* Published version in [Journal of Empirical Software Engineering](https://doi.org/10.1007/s10664-021-10032-2)
+* Preprint version in [ArXiv](https://arxiv.org/abs/2009.09130)
   
 ## Authors
 - [Yusuf Sulistyo Nugroho](https://yusufsn.github.io/)
