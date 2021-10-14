@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Nugroho"
+  given-names: "Yusuf Sulistyo"
+- family-names: "Islam"
+  given-names: "Syful"
+- family-names: "Nakasai"
+  given-names: "Keitaro"
+- family-names: "Rehman"
+  given-names: "Ifraz"
+- family-names: "Hata"
+  given-names: "Hideaki"
+- family-names: "Gaikovina Kula"
+  given-names: "Raula"
+- family-names: "Nagappan"
+  given-names: "Meiyappan"
+- family-names: "Matsumoto"
+  given-names: "Kenichi"
+title: "Research Artifact: How are Project-Specific Forums Utilized? A Study of Participation, Content, and Sentiment in the Eclipse Ecosystem"
+doi: 10.5281/zenodo.4451766
+url: "https://github.com/yusufsn/EclipseForumData"
+type: dataset
